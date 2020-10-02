@@ -5,7 +5,7 @@
 // # Stream
 // A stream is an API that defines a query on a source of values.
 // It's an abstraction of loops over values using a declarative API,
-// an API that describe the result you want and not how to compute it.
+// an API that describes the result you want and not how to compute it.
 
 // By example, to count the number of persons with a name starting by 'E',
 // one can write
